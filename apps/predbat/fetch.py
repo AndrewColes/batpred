@@ -27,6 +27,7 @@ from axle import fetch_axle_sessions, load_axle_slot, fetch_axle_active
 
 import copy
 
+
 class Fetch:
     """Data fetching mixin for loading energy rates, consumption, and forecasts.
 
